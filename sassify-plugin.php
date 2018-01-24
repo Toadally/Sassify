@@ -5,12 +5,12 @@
 */
 
 /*
-Plugin Name: Sassify
+Plugin Name: WP-Sassify
 Plugin URI:
-Description: Use the power of SCSS to customize your WP site!
-Author: MOZAY
-Author URI: https://mozay.com
-Version: 0.1
+Description: Use SCSS and LESS to powerfully stylize any website.
+Author: Drew Gifford
+Author URI: https://drewgifford.com
+Version: 1.0
 */
 //Load admin panel
 
